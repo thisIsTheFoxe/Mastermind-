@@ -11,7 +11,23 @@ Datum: 10.6.2015
 
 
 
+/*
+ 
+ Henrik Storch, Aug. 29, 2020 - Day six..-teen:
+   i tried to save it, i really did.. it's usueless.. imma give you the same advice i wish i had before starting.. this.....
+ 
+   > STOP! <
+ 
+   ther's no need to be a hero.. i'm sure you are a great coder no matter what
+   -> YOU CAN'T SAVE IT!
 
+   it's all for nothing..
+   
+   go away and do something good with your time.. read a book, design a new game..
+   
+   the choice is your's.. don't say i didn't warn you....
+ 
+ */
 
 
 #include <unistd.h>  //sleep(sekunden)
